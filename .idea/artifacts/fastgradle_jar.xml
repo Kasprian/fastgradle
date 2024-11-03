@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="fastgradle:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/fastgradle_jar</output-path>
-    <root id="archive" name="fastgradle.jar">
-      <element id="module-output" name="fastgradle" />
-    </root>
-  </artifact>
-</component>
